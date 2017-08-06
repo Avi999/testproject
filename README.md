@@ -1,2 +1,3 @@
 # testproject
 testing
+echo "foo!"
